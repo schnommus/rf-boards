@@ -1534,6 +1534,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NSPFHFHI
 
+[Document89]
+DocumentPath=mini-rfsynth.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SVOXFQQF
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
