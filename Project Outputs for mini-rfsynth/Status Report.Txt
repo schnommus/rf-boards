@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [mini-rfsynth.PrjPCB]
+   Generated File[mini-rfsynth.GTL]
+   Generated File[mini-rfsynth.GBL]
+   Generated File[mini-rfsynth.GTO]
+   Generated File[mini-rfsynth.GTP]
+   Generated File[mini-rfsynth.GTS]
+   Generated File[mini-rfsynth.GBS]
+   Generated File[mini-rfsynth.GBP]
+   Generated File[mini-rfsynth.GBO]
+   Generated File[mini-rfsynth.GM1]
+   Generated File[mini-rfsynth.RUL]
+   Generated File[mini-rfsynth.EXTREP]
+   Generated File[mini-rfsynth.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 11:45:43 PM On 24/06/2016
