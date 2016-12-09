@@ -1550,10 +1550,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WHTLULFM
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for rf-switch\Design Rule Check - rf-switch.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
